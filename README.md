@@ -37,6 +37,7 @@ Here is the roadmap for future development. We welcome contributions!
 - [ ] "Friends only" privacy setting for notes.
 - [ ] Custom privacy: select specific users, friends, or groups.
 - [ ] Notifications: Save search configurations or specific notes to receive email/push notifications on changes.
+- [ ] Share individual notes & searches via links and QR codes
 - [ ] Option for multiple authors on a single note.
 
 **Map & Notes Enhancements**
