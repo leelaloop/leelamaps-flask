@@ -60,6 +60,9 @@ Here is the roadmap for future development. We welcome contributions!
 - [ ] Mesh network + decentralized hosting.
 - [ ] IoT support.
 
+## The Vision
+LeelaMaps was envisioned to help people share resources and assistance with each other.
+
 ## 🤝 Help Needed!
 
 I am a busy mom of a toddler and caretaker for local agroecology projects, so my progress on this project is sporadic.
