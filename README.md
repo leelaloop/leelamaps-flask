@@ -8,6 +8,7 @@ You can try the demo at [leelamaps.com](https://leelamaps.com).
 - **Backend:** Python + Flask
 - **Frontend:** HTML, CSS, JavaScript
 - **Origin:** Originally conceptualized with DeepSeek, with some edits by Grok.
+- **Explanation** For ease of working with AI, Flask was chosen so that it can be edited as one (large) document; this is not a requirement, but it has been helpful to start
 
 ## Current Features
 - **User System:** User Registration + Login
